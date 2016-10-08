@@ -1,6 +1,6 @@
 title: danvisan.xyz
 url: "http://danvisan.xyz"
-baseurl: "http://danvisan.xyz"
+baseurl: "/"
 
 markdown: kramdown
 
