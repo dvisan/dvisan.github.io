@@ -1052,6 +1052,46 @@
 			display: none;
 		}
 
+/* Fab */
+
+	.fab {
+		position: relative;
+		text-decoration: none;
+	}
+
+		.fab:before {
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			/*font-family: FontAwesome;*/
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
+
+		.fab > .label {
+			display: none;
+		}
+
+/* Fas */
+
+	.fas {
+		position: relative;
+		text-decoration: none;
+	}
+
+		.fas:before {
+			-moz-osx-font-smoothing: grayscale;
+			-webkit-font-smoothing: antialiased;
+			/*font-family: FontAwesome;*/
+			font-style: normal;
+			font-weight: normal;
+			text-transform: none !important;
+		}
+
+		.fas > .label {
+			display: none;
+		}
+
 /* Nav */
 
 	#nav a {
